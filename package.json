@@ -1,0 +1,23 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "Example Node.js application",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint . && node main",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HowProgrammingWorks/Project.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HowProgrammingWorks/Project/issues"
+  },
+  "homepage": "https://github.com/HowProgrammingWorks/Project#readme",
+  "dependencies": {
+    "metasync": "^0.3.8"
+  }
+}
