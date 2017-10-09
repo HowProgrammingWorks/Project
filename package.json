@@ -1,6 +1,6 @@
 {
   "name": "example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Example Node.js application",
   "main": "main.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/HowProgrammingWorks/Project#readme",
   "dependencies": {
     "metasync": "^0.3.8"
+  },
+  "devDependencies": {
+    "eslint": "^4.8.0"
   }
 }
