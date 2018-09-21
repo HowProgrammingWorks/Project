@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/HowProgrammingWorks/Project#readme",
   "dependencies": {
-    "metasync": "^0.3.25"
+    "metasync": "^0.3.29"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
