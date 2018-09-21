@@ -3,7 +3,7 @@
 const tap = require('tap');
 const lib = require('..');
 
-tap.test('submodules', (test) => {
+tap.test('submodules', test => {
   test.strictSame(lib.method11(), 11);
   test.strictSame(lib.method12(), 12);
   test.strictSame(lib.method21(), 21);
