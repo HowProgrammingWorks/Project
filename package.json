@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/HowProgrammingWorks/Project#readme",
   "dependencies": {
+    "diff": "^3.5.0",
     "metasync": "^0.3.31"
   },
   "devDependencies": {
