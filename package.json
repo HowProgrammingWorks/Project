@@ -1,6 +1,6 @@
 {
   "name": "example",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Example Node.js application",
   "main": "main.js",
   "scripts": {
@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/HowProgrammingWorks/Project#readme",
   "dependencies": {
-    "diff": "^3.5.0",
     "metasync": "^0.3.31"
   },
   "devDependencies": {
