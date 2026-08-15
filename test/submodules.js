@@ -3,7 +3,7 @@
 const metatests = require('metatests');
 const lib = require('..');
 
-metatests.test('submodules', test => {
+metatests.test('submodules', (test) => {
   test.strictSame(lib.method11(), 11);
   test.strictSame(lib.method12(), 12);
   test.strictSame(lib.method21(), 21);
